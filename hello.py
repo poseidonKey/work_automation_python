@@ -1,1 +1,3 @@
-print("hello")
+import time
+
+print(time.time())

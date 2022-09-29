@@ -1,0 +1,6 @@
+name : ¿Ã¿±»ƒ
+age : 53
+e-mail : fuzosky8@bhban.com
+division : 73h
+telephone : 010-8753-4187
+sex : male
